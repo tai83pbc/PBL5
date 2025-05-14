@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+ultralytics
+flask
+flask-ngrok
+pyngrok
