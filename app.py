@@ -15,6 +15,7 @@ pyngrok.ngrok.set_auth_token("2x2wnEbO497Dmjsu0UvzaswrzAS_36LKSEfd8h7rSv9jMkpBL"
 public_url = pyngrok.ngrok.connect(5000)
 print('Ngrok public URL:', public_url)
 
+
 # Tải mô hình YOLOv8
 model = YOLO("/content/best.pt")
 
